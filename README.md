@@ -8,4 +8,4 @@ For Labeling you can use keypoint detection in labelme library.
 Tensorflow, keras, Opencv, Labelme
 
 ## Prediction pic
-![image](iris_dete tion_image.png)
+![image](iris_detection_image.png)
